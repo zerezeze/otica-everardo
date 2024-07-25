@@ -27,4 +27,5 @@ Para mais informações sobre o projeto ou para entrar em contato por favor envi
 
 Obrigado por visitar o repositório do site da Ótica Everardo!
 
-<img src="o-e-prtsc.png/"
+<img src="o-e-prtsc.png" alt="Descrição da imagem">
+
