@@ -17,6 +17,8 @@ O site da Ótica Everardo foi criado para fornecer informações detalhadas sobr
 
 Este projeto foi um freelancer para a Ótica Everardo, uma empresa real que busca melhorar sua presença online e fornecer informações valiosas aos seus clientes. O site foi criado com foco na usabilidade, acessibilidade e design responsivo, garantindo que todos os usuários, independentemente do dispositivo, tenham uma experiência consistente e agradável.
 
+Confira o site através desse link https://zerezeze.github.io/otica-everardo/
+
 ## Contato
 
 Para mais informações sobre o projeto ou para entrar em contato por favor envie um email para joseevertonmotarodrigues@gmail.com.
@@ -24,3 +26,5 @@ Para mais informações sobre o projeto ou para entrar em contato por favor envi
 ---
 
 Obrigado por visitar o repositório do site da Ótica Everardo!
+
+<img src="o-e-prtsc.png"
